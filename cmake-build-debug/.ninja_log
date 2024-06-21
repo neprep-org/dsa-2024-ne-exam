@@ -1,7 +1,0 @@
-# ninja log v6
-11	262	7405879955165294	CMakeFiles/dsa.dir/appointments/Appointment.cpp.obj	a310e2f5f24ab4fe
-4	227	7405883359629836	CMakeFiles/dsa.dir/main.cpp.obj	7ea2d3254289e129
-227	281	7405883361857127	dsa.exe	d86fcb7656552cc2
-9	268	7405879955145307	CMakeFiles/dsa.dir/doctors/Doctor.cpp.obj	5e2154b0b02f218d
-7	257	7405879955125325	CMakeFiles/dsa.dir/patients/Patient.cpp.obj	8d1641ef7d716014
-6	210	7406819447954102	build.ninja	8afed683d5f869be
